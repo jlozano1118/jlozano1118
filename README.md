@@ -31,7 +31,7 @@
 
 <h3 align="center">📫 Contáctame</h3>
 <p align="center">
-  jlozanoc2004@gmail.com 
+  jslozanocalderon@gmail.com 
 </p>
 
 ---
