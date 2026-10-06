@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hi! I'm <span style="color:#4DB6AC;">Juan Sebastian Lozano Calderon</span></h1>
-<h3 align="center">💻 Estudent Systems and Computing Engineer | Universidad Católica de Colombia 🇨🇴</h3>
+<h3 align="center">💻 Systems and Computing Engineer | Universidad Católica de Colombia 🇨🇴</h3>
 
 ---
 
