@@ -1,17 +1,17 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#4DB6AC;">Juan Sebastian Lozano Calderon</span></h1>
-<h3 align="center">💻 Estudiante de Ingeniería de Sistemas y Computación | Universidad Católica de Colombia 🇨🇴</h3>
+<h1 align="center">👋 ¡Hi! I'm <span style="color:#4DB6AC;">Juan Sebastian Lozano Calderon</span></h1>
+<h3 align="center">💻 Estudent Systems and Computing Engineer | Universidad Católica de Colombia 🇨🇴</h3>
 
 ---
 
 <p align="center">
-  🌱 Actualmente cursando <b>quinto semestre</b> de Ingeniería de Sistemas y Computación.<br>
-  🚀 Apasionado por el desarrollo <b>BackEnd</b> y la tecnología.<br>
-  💡 <i>"Si puedes imaginarlo... puedes programarlo."</i>
+Future Systems and Computing Engineer, UCC 💻
+Interests: Cibersecurity, Networking/Infra, IA, Agents, Software Engineering, Cloud.
+Philippians 4:13 📖🙏
 </p>
 
 ---
 
-<h3 align="center">🛠️ Lenguajes y Herramientas</h3>
+<h3 align="center">🛠️ Stack Technologies</h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">📫 Contáctame</h3>
+<h3 align="center">📫 Contact me</h3>
 <p align="center">
   jslozanocalderon@gmail.com 
 </p>
@@ -37,4 +37,4 @@
 ---
 
 <h3 align="center">⚡ Fun fact</h3>
-<p align="center">Siempre estoy buscando nuevas formas de mejorar mis habilidades y aprender tecnologías emergentes 🔥</p>
+<p align="center">I'm always looking for new ways to improve my skills and learn emerging technologies. 🔥</p>
